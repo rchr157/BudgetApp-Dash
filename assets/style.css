@@ -1,0 +1,89 @@
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- app-container
+- banner
+- upload-data
+- upload-button
+- pretty_container
+- pretty_graph_container
+- tabs
+*/
+
+#app-container {
+    width: 100%;
+    max-width: none;
+}
+
+body {
+    background-color: #f9f9f9;
+    color: #333333;
+    font-size: 15px;
+    margin: 0;
+}
+
+.banner {
+    height: 7rem;
+    padding: 0rem 2rem 0rem;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.banner Img {
+    position: relative;
+    width: auto;
+    margin-left: 2%;
+    height: 45px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+#upload-data {
+    line-height: 65px;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+#upload-button {
+    border-radius: 20px;
+    font-size: 16px;
+}
+.pretty_container {
+  border-radius: 15px;
+  background-color: #fafafa;
+  margin: 10px;
+  padding: 15px;
+  position: relative;
+  box-shadow: 2px 2px 2px lightgrey;
+}
+
+.pretty_graph_container {
+  border-radius: 15px;
+  border-bottom: thin lightgrey solid;
+  background-color: #fafafa;
+  margin: 10px;
+  padding: 10px 5px;
+  position: relative;
+  box-shadow: 2px 2px 2px lightgrey;
+}
+
+/*.tabs_styles {*/
+/*    height: 44px;*/
+/*}*/
+/*.tab_style {*/
+/*    border-bottom: 1px solid #d6d6d6;*/
+/*    padding: 6px;*/
+/*    font-weight: bold;*/
+/*    font-size: 24px;*/
+/*}*/
+/*.tab_selected_style {*/
+/*    border-top: 1px solid #d6d6d6;*/
+/*    border-bottom: 1px solid #d6d6d6;*/
+/*    background-color: #82c91e;*/
+/*    color: white;*/
+/*    padding: 6px;*/
+/*    font-size: 24px;*/
+/*}*/
