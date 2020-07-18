@@ -20,19 +20,17 @@ Select type of plot and date. Plot options include:
 ![Image of Main Page](https://github.com/rchr157/BudgetApp-Dash/blob/master/screenshots/shot2-main.JPG)
 
 ### Monthly Breakdown
-Total expense for the month selected is shown in the title.
 Percent and actual total for each category is shown in pie chart.
 ![Image of Monthly Breakdown](https://github.com/rchr157/BudgetApp-Dash/blob/master/screenshots/shot3a-monthbreak.JPG)
 
-### Net Income
-This plot option takes in an additional start date. 
+### Net Income 
 Plots show Income vs Expenses along with the Net Income
 ![Image of Net Income](https://github.com/rchr157/BudgetApp-Dash/blob/master/screenshots/shot3b-netincome.JPG)
 
 
 ### Individual Category
 Provides closer look at selected category over specified period.
-Looks at monthly total, maximum, and average. Also provies the average total over the specified date.
+Looks at monthly total, maximum, and average. 
 ![Image of Individual Categories](https://github.com/rchr157/BudgetApp-Dash/blob/master/screenshots/shot3c-individualcat.JPG)
 
 ## Optional Features
